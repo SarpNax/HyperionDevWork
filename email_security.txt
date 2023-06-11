@@ -1,0 +1,47 @@
+email_security.txt
+Whatthreethingsshouldhavealertedyoutothefactthattheemailfromthebankwasnotlegitimate?
+
+The email is not from a reputable bank.
+Banks usually do not send files, especially zip files as they can contain a multitude of harmful files. And form experience the email would contain an embedded image within the email.
+The language used is poor. 
+Urgent Complete forms is not a great subject in my opinion because a bank usually sends out emails with your name or at least a legitimate subject like "your statement is ready" 
+When a bank usually sends an email a lot of email providers will have some sort of ligitmisation of the sender for example a costum pin for their emails on outlook. 
+A Bank usually do not send attached files within an email. 
+
+Do you think it is possible your computer is infected with malware based on
+the given email scenario? Justify your answer. (Hint: think about a possible
+mechanism of infection).
+
+This email is a phishing scam with the possiblity of financial malware unauthorised crypto currency mining and could lead to the possibility of ransomeware if the details are aquired.
+I believe there could be multiple forms of malware could be found in zip files. I believe if the file could contain most if not all the types we have looked at. Depending on the size of the zip file. I believe because the email is targeting as a bank i would imagine the details of the customer would be taken via a worm and bot which takes the information from the form you fill in. These types of attacks are the worste but the easiest to avoid if you are careful. 
+
+
+
+
+Write a paragraph to train fellow employees on phishing, social engineering,
+and how to avoid malware infection (200-400 words).
+
+Good Morning/Evening,
+
+To all current staff!
+
+We have been aware that many emails are being sent to company accounts with fraudulent information and attempts to infiltrate or pry information from yourselves.
+
+In regards to phishing (asking for your login credentials and other sensitive information).
+
+Please refrain from opening emails with suspicious texts such as the need for your login details, bank details or any social media account information. 
+
+PLEASE NOTE, any emails sent by our team  will use a specific email address. 
+Please make sure you are careful when reading where the email has come from, as scammers will try to make their email as close to our companies as possible.
+
+These scammers will use terminology such as your "account is compromised" or other such blatant language to entice yourselves in giving out important information. 
+We would also like to ask that you do not click on hyperlinks (Website links) to external sites embedded (inside) emails received in your inbox or junk folders as these are usually at a high risk of being fraudulent websites. 
+
+Please be aware that we will not be sending files over email especially ZIP files as they have the capacity to have malicious files within them.
+Also be aware if the email is too good to be true it probably is.
+and if an email claims the worst, take a moment, and make no rash decisions. 
+
+Kindly 
+
+Your Online Security team.  
+

@@ -1,0 +1,7 @@
+data_breach.txt
+What do you think the risk is for individuals when their email addresses and passwords are exposed to the public 
+
+In my opinion if your email and password are compromised this allows anyone with both of this information to log onto your account with ease.
+They can access personal information as well as sign up for things using your email. 
+You can change your password frequently and make sure you use numbers and letters as well as special characters. 
+You can always opt into 2 factor authentication as well as use programs designed to keep your passwords encrypted and safe.

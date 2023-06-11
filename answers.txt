@@ -1,0 +1,29 @@
+Sarpcan Alcicek
+Questions
+
+1 The “P” in HTTP means protocol. Explain in your own words what a protocol is.
+1a. A protocol is a series of instructions followed by a program or that has to be performed in a structured way for computers to communicate or perform other actions.
+
+2 HTTP is build on top of which protocol
+2a. The protocol HTTP is built on is the TCP/IP protocols which are used to manage packet data. 
+
+3.If a request is successful,what will the status code of the response be?
+3a. The code response would be within the 200s 
+
+4.What is a stateless protocol?
+4a. A stateless protocol is one that does not need any other protocol to follow or precede itself as it is its own entity and performs its own responses.
+
+5.SSH is encrypted. What is the encrypted equivalent of HTTP
+5a. The equivalent would be HTTPS which has an extra layer of security to a website.
+
+6.What happens if there is a key mismatch between the client and server while establishing an SSH connection.
+6a.You will not be able to log into the network after being warned that the key has been changed or isn't the same as before. 
+7.Which of the following are Valid MIME types
+7a.
+	image/Jpeg
+	text/Javascript	
+	text/jsx
+	image/psd
+
+8. Which status message can you expect if a server does not allow you permission to request a specific resource
+8a. 401 for a HTTP website as you do not have permission or the aurhtority to access the resource 

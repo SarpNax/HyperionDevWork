@@ -1,0 +1,33 @@
+Sarpcan Alcicek
+
+What is Web 3.0 and how is it different from web 1.0 and Web  2.0?
+
+I believe web 3.0 is the new age of the internet. Its differences to web 1.0 and 2.0 are both modest and also not. What web 3.0 will introduce is a scalable solution to the demands of users and stopping the influence within the web by “questionable” companies such as Google. Companies such as the one I mentioned have motives outside of what the consumer and user wants. 
+
+The main technical differences between 3.0 and the others are that it uses Artificial intelligence to work on parts of websites and the whole structure of the web that usually a corporation or user would do. Cutting the human element out of this should stop companies from taking advantage of the users data and interest. 
+With the use of semantic web pages all the data and knowledge collected within the world wide web will be integrated for use for machine learning artificial intelligence and packaged in better ways for users to be able to access and use the data within the web. As well as help the artificial intelligence compiling the data give the most accurate and up to date info it can. 
+Web 3.0 will introduce a new system of P2P engagement that will replace both taxonomy and folksonomy and make a whole new type of engagement to content both user generated and otherwise.
+And the most prevalent part of Web 3.0 is the cloud based systems that will replace old data storage methods to stop the corruption and loss of data that would otherwise happen within the normal web. Cloud based storage has been seen to be more secure with multiplace locations for information rather than holding data within 1 server only. And be accessed much more easily and quickly than a tradiction server. And should lead to data being more secure as cloud based storage entities are very stringent with their data protection and protocols for securing user data. 
+
+What are the functional differences between the front-end of web applications and its back-end?
+
+A simple definition of the differences between front-end and back-end developer for an application is that the front-end is the interactable part of the application that the users see. While the back-end developer is responsible for the inner workings of the application that are unseen and integral to the function of the application. 
+
+It is very hard to have an application that does not utilize both types of developers as the front-end developer will make the application usable for most people while the back-end will be the core of the application and its actual function. 
+
+A front end developer will create and change everything a user interacts with, for example the web functionalities, the color scheme used, the images and videos within the site. 
+
+While the bank-end developer will be incharge of making the data mechanisms and performed actions within the website and ensure that the page does not crash or not handle what a user does. They are also involved in the security of the webpage or application and maintain the server side functionality within the website. 
+
+In your own words, explain the process that takes place from when you type a URL into the address bar in your browser until you finally view the page you have requested. 
+
+When you press enter and the data is sent first the browser will check the cache of itself for a DNS record to find the ip address that matches the ip address of the browser you have written.
+
+If you have the websites DNS record then the ip address will be found and the browser you are using will begin/initiate a TCP connection with the server this is typically a three-way handshake where the server exchanges, synchronizes and then acknowledges to establish a connection. 
+
+Once a TCP connection is established the browser sends the HTTP request to the webserver and this is when data is transferred between the locations.
+
+The server with the website then handles the request and begins sending back a response in the form of another HTTP response, when this is happening the message should be in the form of a 200 number code or if it is redirected to the “correct” webpage a 300 number code to the browser .
+
+Once this has happened then the webpage will display the webpages’ HTML content.
+You will be able to view it within the browser and access what you want or start another process if you wish to log in or move to another webpage. 
